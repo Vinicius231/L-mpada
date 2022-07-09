@@ -1,0 +1,15 @@
+body{
+    background: rgb(0, 0, 0);
+}
+div{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    text-align: center;
+    border-radius: 100%;
+    margin: auto;
+
+}
+h1{
+    color: white;
+}
